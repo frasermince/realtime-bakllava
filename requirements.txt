@@ -1,3 +1,5 @@
 requests
 imageio[ffmpeg]
 imageio-ffmpeg
+mss
+pillow
